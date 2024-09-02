@@ -33,7 +33,7 @@ class HTMLPurifier_Length
         'em' => true, 'ex' => true, 'px' => true, 'in' => true,
         'cm' => true, 'mm' => true, 'pt' => true, 'pc' => true,
         'ch' => true, 'rem' => true, 'vw' => true, 'vh' => true,
-        'vmin' => true, 'vmax' => true
+        'vmin' => true, 'vmax' => true, '%' => true
     );
 
     /**
